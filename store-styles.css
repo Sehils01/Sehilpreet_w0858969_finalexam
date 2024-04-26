@@ -1,0 +1,24 @@
+header {
+	color:#f98b35;
+	font-family:Arial,sans-serif;
+	margin:0;
+	padding:20px;
+}
+
+nav {
+	text-align:center;
+	color:#f3ee3e;
+}
+
+	
+	
+container{
+	background-color:#725e4e;
+	color:#e41320;
+}
+body {
+	background-color:#6f6a6a;
+}
+section {
+	padding:20px;
+}
